@@ -1,5 +1,5 @@
 def prime_checker(num):
-#counter is for dividing num until it reaches num value, loop for ending loop when #conditions met, prime_result for checking if modulo == 0, num_divisible list to #check if num has more than 2 divisible numbers
+#counter is for dividing num until it reaches num value, loop for ending loop when conditions met, prime_result for checking if modulo == 0, num_divisible list to check if num has more than 2 divisible numbers
   counter = 0
   loop = True
   prime_result = 0
