@@ -11,7 +11,7 @@ def prime_checker(num):
     if num == 1:
       print("Not")
       loop = False
-#check if prime num has more than 2 divisible numbers
+#check if prime num has more than 2 divisible numbers, if more than 2 in list, it's not prime
     elif prime_result == 0:
       num_divisible.append(counter)
       if len(num_divisible) == 3:
